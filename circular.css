@@ -1,0 +1,37 @@
+.circulo_1 {
+
+    height: 400px;
+    width: 400px;
+    border-radius: 4000px;
+    border: 5px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.circulo_2 {
+
+    height: 200px;
+    width: 200px;
+    border: 5px solid red;
+    border-radius: 4000px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
+.circulo_3 {
+
+    height: 75px;
+    width: 75px;
+    border: 5px solid rgb(0, 255, 200);
+    border-radius: 4000px;
+
+
+}

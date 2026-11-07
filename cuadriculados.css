@@ -1,0 +1,42 @@
+.cuadro-1 {
+
+    height: 400px;
+    background-color: black;
+    border: 10px solid red;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin: 150px;
+}
+
+.cuadro-2 {
+
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+
+}
+
+.cuadrado-1 {
+    height: 400px;
+    background-color: pink;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: ;
+}
+
+.cuadrado-2 {
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+}
+
+.cubo {
+
+    height: 400px;
+    background-color: rgb(255, 115, 0);
+    border: 10px solid green;
+}
